@@ -1,0 +1,24 @@
+body{
+    background-color: #ebebed;
+}
+main{
+    background-color: #f1f2e1;
+}
+
+.titulos{
+    color: #3fd1ca;
+}
+
+.FT_Rick{
+    width: 250px;
+    height: 300px;
+}
+.texto-principal{
+    float: right;
+}
+.texto-direita{
+    float: left;
+}
+.rick{
+    padding-left: 15px;
+}

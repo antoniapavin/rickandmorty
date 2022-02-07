@@ -1,0 +1,22 @@
+body{
+    background-color: #ebebed;
+}
+main{
+    background-color: #f1f2e1;
+}
+
+.titulos{
+    color: #3fd1ca;
+    text-align: left;
+}
+.FT_morty{
+    width: 200px;
+    height: 250px;
+}
+
+.texto-principal{
+    float: right;
+}
+.texto-direita{
+    float: left;
+}

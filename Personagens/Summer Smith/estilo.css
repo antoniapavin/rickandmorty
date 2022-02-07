@@ -1,0 +1,27 @@
+body{
+    background-color: #ebebed;
+}
+main{
+    background-color: #f1f2e1;
+}
+
+.titulos{
+    color: #3fd1ca;
+    text-align: left;
+}
+.FT_summer{
+    width: 200px;
+    height: 265px;
+}
+
+.texto-principal{
+    float: right;
+}
+.texto-direita{
+    float: left;
+}
+.FT_esquerda{
+    width: 150px;
+    height: 190px;
+    padding-left: 13px;
+}

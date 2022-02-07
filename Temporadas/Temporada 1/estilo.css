@@ -1,0 +1,21 @@
+body{
+    background-color: #ebebed;
+}
+main{
+    background-color: #f1f2e1;
+    padding: 40px;
+}
+
+.titulos_temp{
+    color: #000000;
+    font-size: 30px;
+    padding: 15px;
+}
+.table1, tr, th{
+    border: 1px solid #000830;
+    padding: 10px;
+    text-align: center;
+}
+#principal{
+    background-color: #91a2fa;
+}
